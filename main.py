@@ -4,7 +4,7 @@ import logging
 
 
 
-API_TOKEN = "5483531071:AAHLi3MIpevkWYAzzVfw0oNcst1m7NIz-IM"
+API_TOKEN = "YOUR_TOKEN"
 
 logging.basicConfig(level=logging.DEBUG)
 
